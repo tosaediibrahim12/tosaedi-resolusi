@@ -1,3 +1,5 @@
 WPU RESOLUSI
 -konsisten dalam pembelajaran rekweb
 -memahami materi yang ada di matkul rekweb
+-membuat website yang baik menggunakan MVC
+-nonton video pak sandika
